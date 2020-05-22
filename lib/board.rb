@@ -1,3 +1,4 @@
 # Define the variable board below.
-local_variable = "board"
+first_number = 7
+puts first_number
   
